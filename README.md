@@ -2,7 +2,7 @@
 
 # Sk Asif Tanvir
 
-**IT Undergrad @ IIEST Shibpur · CGPA 9.44**
+**IT Undergrad @ IIEST Shibpur**
 
 *Building things for the web, the terminal, and the Linux desktop.*
 
